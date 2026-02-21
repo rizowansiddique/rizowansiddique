@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Agent Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmzadHossain&label=Profile%20views&color=0e75b6&style=flat" alt="AmzadHossain" />
+  <img src="https://komarev.com/ghpvc/?username=rizowansiddique&label=Profile%20views&color=0e75b6&style=flat" alt="rizowansiddique" />
 </p>
 
 ---
